@@ -1,0 +1,7 @@
+{
+  "name": "GrocyMart CRM Pro",
+  "description": "A high-performance CRM and Inventory Management system for grocery businesses featuring real-time stock tracking, customer loyalty management, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
